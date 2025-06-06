@@ -1,0 +1,29 @@
+{
+  "name": "@gandalfwisdom/hashgen",
+  "version": "1.0.0",
+  "description": "A hash generator for roblox.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GandalfWisdom/HashGen.git",
+    "directory": "src/HashGen/"
+  },
+  "keywords": [
+    "Roblox",
+    "Nevermore",
+    "Lua",
+    "Module"
+  ],
+  "author": "GandalfWisdom",
+  "license": "ISC",
+  "dependencies": {
+    "@quenty/loader": "^10.9.0",
+    "@quenty/maid": "^3.5.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/GandalfWisdom/HashGen/issues"
+  },
+  "homepage": "https://github.com/GandalfWisdom/HashGen#readme"
+}

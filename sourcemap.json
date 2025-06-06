@@ -1,0 +1,1 @@
+{"name":"hashgen","className":"Folder","filePaths":["default.project.json"],"children":[{"name":"Client","className":"Folder","children":[{"name":"HashGen","className":"ModuleScript","filePaths":["src\\Client\\HashGen.lua"]}]}]}
